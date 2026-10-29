@@ -1,0 +1,3 @@
+# Команды для проверки в игре (включить читы)
+/summon lastworld:observer ~ ~ ~
+/give @p lastworld:memory_note

@@ -1,0 +1,6 @@
+{
+  "presence": {
+    "subtitle": "Звук присутствия",
+    "sounds": ["lastworld:presence"]
+  }
+}
